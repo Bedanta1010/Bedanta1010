@@ -22,6 +22,6 @@
 </div>
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=tokyonight&hide=batchfile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=tokyonight&hide=batchfile" alt="stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=tokyonight">
 </details>
