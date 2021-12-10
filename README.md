@@ -18,10 +18,10 @@
 <hr>
 <h3> Stats </h3>
 <div align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=Bedanta1010&theme=dracula" alt = "GitHub Trophies">
+  <img src = "https://github-profile-trophy.vercel.app/?username=Bedanta1010&theme=monokai" alt = "GitHub Trophies">
 </div>
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=tokyonight&hide=batchfile" alt="stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&theme=github_dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=merko" alt="stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=midnight-purple">
 </details>
