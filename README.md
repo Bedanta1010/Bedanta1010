@@ -2,7 +2,7 @@
 
 - 🔭 Currently learning <em><strong>C, Java and ReactJS</em></strong>
 - 🌱 **Languages:** JavaScript, NodeJS, HTML, CSS, Python.
-- 📫 How to reach me: <b>You can't</b> :P
+- 📫 How to reach me: https://github.com/iamAlex107
 - ⚡ Fun fact: This is weird!
 
 <div align = "center">
