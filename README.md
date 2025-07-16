@@ -1,14 +1,9 @@
-<!-- GitHub Profile README -->
+# Hey there 👋, I'm Bedanta Prakash Barman
 
-<h1 align="center">Hey there 👋, I'm Bedanta Barman</h1>
-<h3 align="center">I'm a developer who loves building, exploring, and learning through code.</h3>
-
----
-
-## 🌟 About Me
-- Passionate about turning ideas into real, working code.
-- Love exploring new tools, frameworks, and coding challenges.
-- Currently focused on **full-stack development**, automation, and improving problem-solving skills.
+💻 I'm a curious and driven developer who enjoys turning ideas into reality with code.  
+🧠 Currently diving deep into **Data Structures & Algorithms**, exploring the world of **Machine Learning**, and experimenting with **Deep Learning** models.  
+🚀 I believe in learning by doing — building projects, solving challenges, and sharing knowledge.  
+👥 You can also find me on my second GitHub account: [@iamAlex107](https://github.com/iamAlex107)
 
 ---
 
