@@ -71,16 +71,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- ✅ Completed multiple hands-on projects in Python, C++, and Bash.
-- 📚 Built system info scripts and automation tools for real use cases.
-- 🌟 Consistent contributor to GitHub with growing repositories.
-- 🥇 Solved numerous algorithmic problems on platforms like LeetCode and HackerRank.
-- 🧠 Self-taught in full-stack development and open-source workflow.
-
----
-
 ## 🚀 What I'm Up To
 - Building cool projects with **Python** and **JavaScript**.
 - Exploring **React**, **Node.js**, and advanced programming concepts.
