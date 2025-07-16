@@ -1,14 +1,14 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hey there 👋, I'm Bedanta Barman</h1>
-<h3 align="center">Developer | Pythonista | Tech Explorer</h3>
+<h3 align="center">I'm a developer who loves building, exploring, and learning through code.</h3>
 
 ---
 
 ## 🌟 About Me
-- I enjoy building cool stuff with code and solving real-world problems.
-- Passionate about learning and exploring various technologies.
-- Currently working on improving my skills in **full-stack development** and **automation**.
+- Passionate about turning ideas into real, working code.
+- Love exploring new tools, frameworks, and coding challenges.
+- Currently focused on **full-stack development**, automation, and improving problem-solving skills.
 
 ---
 
@@ -18,11 +18,14 @@
   <a href="https://github.com/Bedanta1010">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:bedanta1010@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/Bedanta1010">
+  <a href="https://www.linkedin.com/in/bedanta-prakash-barman-93b1a1328/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bed._anta/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/678217187542040582">
+    <img src="https://img.shields.io/badge/Discord-iamalex1075865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -65,6 +68,16 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+- ✅ Completed multiple hands-on projects in Python, C++, and Bash.
+- 📚 Built system info scripts and automation tools for real use cases.
+- 🌟 Consistent contributor to GitHub with growing repositories.
+- 🥇 Solved numerous algorithmic problems on platforms like LeetCode and HackerRank.
+- 🧠 Self-taught in full-stack development and open-source workflow.
 
 ---
 
