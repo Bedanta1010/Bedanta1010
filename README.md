@@ -1,27 +1,78 @@
-### Hi there <img src="https://github.com/Bedanta1010/Bedanta1010/blob/main/img/HandWave.gif" width="25px"> 
+<!-- GitHub Profile README -->
 
-- 🔭 Currently learning <em><strong>C, Java and ReactJS</em></strong>
-- 🌱 **Languages:** JavaScript, NodeJS, HTML, CSS, Python.
-- 📫 How to reach me: https://github.com/iamAlex107
-- ⚡ Fun fact: This is weird!
+<h1 align="center">Hey there 👋, I'm Bedanta Barman</h1>
+<h3 align="center">Developer | Pythonista | Tech Explorer</h3>
 
-<div align = "center">
-  <a href = "https://github.com/Bedanta1010"> <img src = "https://img.icons8.com/dusk/2x/github.png" width = "50"> </a><br><br>
-  </center>  
-</div> 
+---
 
-<hr>
-<div>
-<h3>Languages and Tools:</h3>
-<p align = "left"><a href = "https://code.visualstudio.com" target = "_blank"> <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width = "40"> </a> <a href = "https://www.jetbrains.com/idea/" target = "_blank"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/intellij-idea_logo_300x300.png" width = "40"> </a> <a href = "https://www.jetbrains.com/webstorm/"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/webstorm_logo_300x300.png" width = "40"> </a> <a href = "https://www.jetbrains.com/pycharm/"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/pycharm_logo_300x300.png" width = "40"> </a> <a href = "https://www.jetbrains.com/phpstorm/"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/phpstorm_logo_300x300.png" width ="40"> </a> <a href = "https://www.jetbrains.com"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/1200px-JetBrains_Logo_2016.svg.png" width = "40"> </a> <a href = "https://github.com/Bedanta1010"> <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width = "40"> </a> <a href = "https://atom.io"> <img src = "https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width = "40"> </a> <a href = "https://www.android.com/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width = "40"> </a> <a href = "https://getbootstrap.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width = "40"> </a> <a href = "https://www.google.com/chrome/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width = "40"> </a> <a href = "https://www.google.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width = "40"> </a> <a href = "https://www.opera.com/"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/Opera_2015_icon.svg.png" width ="40"> </a> <a href = "https://www.opera.com/gx"> <img src = "https://github.com/Bedanta1010/Bedanta1010/blob/main/img/opera_gx_browser_logo_icon_152976.png" width = "40"> </a> <a href = "https://www.heroku.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width = "40"> </a> <a href = "https://codepen.io"> <img src = "https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width ="40"> </a> <a href = "https://www.w3schools.com/css/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "40" > </a> <a href = "https://www.w3schools.com/html/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "40"> </a> <a href = "https://www.w3schools.com/java/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40"> </a> <a href = "https://www.w3schools.com/js"> <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width = "40"> </a> <a href = "https://jquery.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width = "40"> </a> <a href = "https://jupyter.org"> <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width = "40"> </a> <a href = "https://kotlinlang.org"> <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width = "40"> </a> <a href = "https://www.mongodb.com/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width = "40"> </a> <a href = "https://www.nginx.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width = "40"> </a> <a href = "https://nodejs.org/en/"> <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width = "40"> </a> <a href = "https://www.npmjs.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width = "40"> </a> <a href = "https://www.oracle.com/index.html"> <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width = "40"> </a> <a href = "https://www.adobe.com/in/products/photoshop.html"> <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width = "40"> </a> <a href = "https://www.adobe.com/in/products/premiere.html"> <img src = "https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width = "40"> </a> <a href = "https://www.python.org"> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" > </a> <a href = "https://reactjs.org"> <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width = "40"> </a> <a href = "https://wordpress.com"> <img src = "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width = "40"> </a></p>
-</div>
-<hr>
-<h3> Stats </h3>
-<div align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=Bedanta1010&theme=monokai" alt = "GitHub Trophies">
-</div>
-<details>
-    <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&theme=github_dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact&text_color=FF5555">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=midnight-purple">
-</details>
+## 🌟 About Me
+- I enjoy building cool stuff with code and solving real-world problems.
+- Passionate about learning and exploring various technologies.
+- Currently working on improving my skills in **full-stack development** and **automation**.
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Bedanta1010">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:bedanta1010@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Bedanta1010">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 What I'm Up To
+- Building cool projects with **Python** and **JavaScript**.
+- Exploring **React**, **Node.js**, and advanced programming concepts.
+- Actively learning and sharing through open-source and GitHub repositories.
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or collaborate! 😊*
