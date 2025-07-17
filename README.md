@@ -73,4 +73,4 @@
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect or collaborate! 😊*
+*Thanks for visiting my profile! Feel free to connect or collaborate!* 😊
