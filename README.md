@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bedanta1010&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedanta1010&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedanta1010&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
